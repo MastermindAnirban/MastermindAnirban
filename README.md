@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m passionate about turning raw data into meaningful in
 ---
 
 ## 🛠 Tech & Tools
-- **Languages**: Python, SQL, R (beginner), JavaScript (basics)
+- **Languages**: Python, SQL, R (beginner), C++ (intermediate)
 - **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Databases**: SQL Server 
 - **Others**: Git & GitHub, Power BI, Jupyter Notebook, VS Code  
